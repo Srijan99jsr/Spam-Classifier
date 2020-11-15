@@ -7,11 +7,11 @@
 
 ### •	Describing how things should work
 #### ---Software Specifications---
-##### 	Python 3.8
-##### 	HTML 5
-##### 	CSS 3
-##### 	Flask 1.1
-##### 	Operating System – Independent
+##### ->	Python 3.8
+##### ->	HTML 5
+##### ->	CSS 3
+##### ->	Flask 1.1
+##### ->	Operating System – Independent
 
 
 ### •	Problem and Why it matters
@@ -26,12 +26,12 @@
  
 
 ### •	Benefits of Proposed solution
-##### 	Used for all types of Notifications
-##### 	Reduced Wastage of time
-##### 	System Independent
-##### 	User friendly GUI
-##### 	Basic Cyber Security
-##### 	Offline
+##### ->	Used for all types of Notifications
+##### ->	Reduced Wastage of time
+##### ->	System Independent
+##### ->	User friendly GUI
+##### ->	Basic Cyber Security
+##### ->	Offline
 ### •	Conclusion
 ##### Though we can conclude that this Spam Classification technique can be used on any system to distinguish from System to multiple Application Software notifications. Therefore, it would be easier for the user to just have a look on only those notifications which is either helpful for him or the system which will surely increase his/her productivity
 
