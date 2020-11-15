@@ -1,5 +1,5 @@
 # Spam-Classifier
-## Assignment-1
+
 ## Problem statement
 
 ### •	Project Name
